@@ -1,2 +1,2 @@
 # RouteNetQT
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+ ![历史共访问次数](https://visitor-badge.glitch.me/badge?page_id=Jiachengciel.Leetcode)
